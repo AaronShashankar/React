@@ -1,0 +1,13 @@
+body{
+  background: #000;
+  color: white;
+  height: 100%;
+  margin:auto;
+  text-align: center;
+}
+.box{
+  border: 2px solid white;
+  margin-inline: 400px;
+  height: 200px;
+
+}
